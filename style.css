@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+    color: rgb(0, 30, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;;
+}
+ul,ol,li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+body{
+
+    background-color: beige;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
